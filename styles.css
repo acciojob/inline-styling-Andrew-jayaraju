@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#ex01{
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+}
+
+#ex02{
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+}
